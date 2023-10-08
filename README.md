@@ -1,6 +1,6 @@
 # Cotton_Plant_Disease_Detection
 Project by:
-1) Saner Dhanashri Pankaj
+1) Dhanashri Pankaj Saner
 2) Pranjal Mahendra Chaudhari
 3) Bharat Premsing Rajput
 4) Jayesh Sanjay Patel
