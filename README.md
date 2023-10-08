@@ -1,5 +1,9 @@
 # Cotton_Plant_Disease_Detection
-
+Project by:
+1) Saner Dhanashri Pankaj
+2) Pranjal Mahendra Chaudhari
+3) Bharat Premsing Rajput
+4) Jayesh Sanjay Patel
 <hr>
 Dataset Link : https://drive.google.com/drive/folders/1YrSTf1SeUpMPdrpr3zqGQ_7WsFbY0mxv?usp=sharing
 
